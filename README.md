@@ -8,7 +8,7 @@ Please use this bibtex if you use this repository in your work:
 @inproceedings{hu2023ecrl,
   title={3D Building Generation in Minecraft via Large Language Models},
   author={Hu, Shiying and Huang, Zengrong and Hu, Chengpeng and Liu, Jialin},
-  booktitle={2021 IEEE Conference on Games (CoG)},
+  booktitle={2024 IEEE Conference on Games (CoG)},
   pages={accepted},
   year={2024},
   publisher={IEEE}
