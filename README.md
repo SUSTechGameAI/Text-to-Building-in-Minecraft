@@ -5,7 +5,7 @@ This is the Supplementary Material for the paper "3D Building Generation in Mine
 Please use this bibtex if you use this repository in your work:
 
 ````
-@inproceedings{hu2023ecrl,
+@inproceedings{hu2024t2bm,
   title={3D Building Generation in Minecraft via Large Language Models},
   author={Hu, Shiying and Huang, Zengrong and Hu, Chengpeng and Liu, Jialin},
   booktitle={2024 IEEE Conference on Games (CoG)},
