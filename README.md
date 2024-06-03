@@ -1,4 +1,4 @@
-# Supplementary-Material-3D-Building-Generation-in-Minecraft-via-Large-Language-Models
+# 3D Building Generation in Minecraft via Large Language Models
 
 This is the Supplementary Material for the paper "3D Building Generation in Minecraft via Large Language Models" accepted by the 2024 IEEE Conference on Games.
 
